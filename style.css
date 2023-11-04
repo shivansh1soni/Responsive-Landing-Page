@@ -54,12 +54,10 @@ body {
     justify-content: space-between;
     align-items: center;
 }
-
 .textright p {
     font-size: 14px;
     width: 40%;
 }
-
 .icon i {
     margin-right: 3px;
 }
